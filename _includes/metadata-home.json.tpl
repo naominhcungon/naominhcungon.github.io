@@ -1,6 +1,6 @@
 {
     "page": {
-        "title": "Introduction",
+        "title": "Giới thiệu",
         "level": "1.1",
         "depth": 1,
         {% assign reversed_posts = site.posts | reverse %}

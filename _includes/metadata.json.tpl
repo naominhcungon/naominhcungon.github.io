@@ -22,7 +22,7 @@
             },
             "search": {},
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
+                "all": ["facebook", "twitter"],
                 "facebook": true,
                 "google": false,
                 "instapaper": false,
@@ -43,7 +43,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Tùng Anh",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
@@ -78,5 +78,5 @@
     },
     "basePath": "{{site.baseurl}}",
     "book": {
-        "language": ""
+        "language": "vi"
     }
