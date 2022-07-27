@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Nào mình cùng ôn!
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Thi FE chỉ là một chuyện đơn giản với chúng ta!
 
-## Demo
+<!-- ## Demo
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
@@ -65,15 +65,15 @@ style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
 
 ## How to generate TOC
 
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
+The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the _Contents_ for the page.
 The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
 configuration in `_config.yml`:
 
 ```yaml
 toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
+  enabled: true
+  h_min: 1
+  h_max: 3
 ```
 
 ## Google Analytics, etc.
@@ -114,10 +114,10 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 
 ```css
 .book.font-family-0 {
-    font-family: Georgia, serif;
+  font-family: Georgia, serif;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 ```
 
@@ -131,7 +131,7 @@ The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip
 >
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
 > this or a similar version after installation.
-{: .block-tip }
+> {: .block-tip }
 ```
 
 Rendered page can be previewed from
@@ -177,4 +177,4 @@ Copyright 2019 Tao He.
 [11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
 [12]: https://rubygems.org/gems/jekyll-remote-theme
 [13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml -->
